@@ -1,8 +1,8 @@
-github.com/binderclip/go-bar v0.0.0-20190618125125-991ecfb75d27 h1:fdlmaC+rPbMR8CJhdeyLzRImbRGAd6BdcA8WSEWrnZg=
-github.com/binderclip/go-bar v0.0.0-20190618132855-28475bebe5a8 h1:yYpYv0MeOPIx60PGOunFaePXTvmo2yg4jpzLI+Y8Q2s=
-github.com/binderclip/go-bar v0.0.0-20190618132855-28475bebe5a8/go.mod h1:uwJrfrEVKbRAGaolB3MqLLspazOeWeq6oaefyOT/jmU=
-github.com/binderclip/go-baz v0.0.0-20190618125241-310514195c19 h1:kUTh3hQBs89pcVudKXBMd0P9dj4/v+gGfGjXtduPy3w=
+github.com/binderclip/go-bar v0.2.0 h1:ZAGDrbqv7gtKNm2t4VlDlnQffdLxAF5Nh5IBu5lzPw0=
+github.com/binderclip/go-bar v0.2.0/go.mod h1:8JlvPWV7uzkHO0VpMprtGhA8mSMA0obfz7yKG3g5Sbk=
 github.com/binderclip/go-baz v0.0.0-20190618132905-26f14370f84b h1:oCgfKd+NKC0UYrxKKAUSZmDdUOzAtvO/I72MenEZo1Q=
 github.com/binderclip/go-baz v0.0.0-20190618132905-26f14370f84b/go.mod h1:McezZU+h5Xemh+12JNe58WjIS+SrXE1yCwxI0oyaXso=
 github.com/binderclip/go-qux v0.0.0-20190618132100-b4cb7a3d4552 h1:4qomvWN8X3lae94B+QrM4v/gjm2ZUMNLnQkozav8me4=
 github.com/binderclip/go-qux v0.0.0-20190618132100-b4cb7a3d4552/go.mod h1:cwo7RbDu8IS9N/p1XVm+QgEZktiBa6cmap4QyN7kpqo=
+github.com/binderclip/go-qux v0.1.0 h1:hJyi3oWUQQ9shWUFiHYW6bnZFGM/Lruf5gMUk4KiYKo=
+github.com/binderclip/go-qux v0.1.0/go.mod h1:cwo7RbDu8IS9N/p1XVm+QgEZktiBa6cmap4QyN7kpqo=
