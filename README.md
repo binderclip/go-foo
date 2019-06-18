@@ -1,0 +1,2 @@
+# go-foo
+foo
