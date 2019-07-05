@@ -8,8 +8,8 @@ import (
 )
 
 func main() {
-	fmt.Println("foo 001 >>")
+	fmt.Println("foo 002 >>")
 	bar.Bar()
 	baz.Baz()
-	fmt.Println("foo 001 <<")
+	fmt.Println("foo 002 <<")
 }
